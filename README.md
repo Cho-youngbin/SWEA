@@ -1,0 +1,2 @@
+# SWEA
+solving SWEA problems
